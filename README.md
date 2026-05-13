@@ -19,13 +19,7 @@
 
 ## 介面配置
 
-```
  <img width="1451" height="350" alt="image" src="https://github.com/user-attachments/assets/3fe62099-c0ce-401c-9c11-cc42f29d95d9" />
-
-
-```
-
-
 
 ## 注意事項
 
